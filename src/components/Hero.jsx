@@ -15,8 +15,7 @@ export default function Hero() {
         <div className="orbit orbit1"><div className="orbit-dot" /></div>
         <div className="orbit orbit2"><div className="orbit-dot orbit-dot-cyan" /></div>
         <div className="profile-img">
-          <img src="/WhatsApp Image 2025-11-14 at 01.15.39_45cdc9b5 (2).jpg" alt="Profile" />
-          
+          <img src="/Rahim.jpg" alt="Profile" />
         </div>
       </div>
 
